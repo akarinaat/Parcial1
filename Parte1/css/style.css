@@ -1,0 +1,30 @@
+html{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-width: 5px;
+    border-style: double;
+}
+
+#frase{
+    text-align: center;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;    
+}
+
+h3{
+    text-align: center;
+}
+
+footer{
+    margin-top: 50px;
+}
